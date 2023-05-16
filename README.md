@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+I am Thomas, a new grad creating projects related to Web Development, Natural Language Processing, and other topics that interest me!
 
 <!--
 Here are some ideas to get you started:
