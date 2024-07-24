@@ -1,6 +1,6 @@
 ### Hello!
 
-I am Thomas, a new grad creating projects related to Web Development, Natural Language Processing, and other topics that interest me!
+I'm Thomas, creating projects related to full-stack Web Applications, Natural Language Processing, and other topics that interest me! I've been doing Software Development for small businesses using my technical skills to design, develop, and deploy solutions.
 
 <!--
 Here are some ideas to get you started:
